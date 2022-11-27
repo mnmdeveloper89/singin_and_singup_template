@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  position:relative;
+  overflow:hidden;
+}
+
+.ParticipleBackground {
+  z-index: index -1;
+}
